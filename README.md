@@ -8,9 +8,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vinit-todai/)
 -->
 
-### Hi everyone 👋
-
-Hi Everyone, I am Vinit Todai, a creative software engineer with over 2 years of experience in software development and artificial intelligence.
+I am Vinit, a creative software engineer with over 2 years of experience in software development and artificial intelligence.
 
 I'm currently pursuing a Master's degree in Artificial Intelligence at Northwestern University, which is ranked among the top ten universities in the United States. Prior to this, I worked as a Software Developer at Barclays - the bank who invented the first ATM machine...!.
 
