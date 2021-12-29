@@ -8,16 +8,22 @@
 
 ### Hi everyone 👋
 
-I'm Luke, a Master's student currently studying Artificial Intelligence at Northwestern University. I'm from Wauwatosa, Wisconsin. (Our city is named after the Potawatomi word for firefly 😀) Previously, I worked as a Senior Software engineer at Capital One. I'm currently working on a few different projects related to machine learning, especially natural language processing and computer vision. 
+Hi Everyone, I am Vinit Todai, a creative software engineer with over 2 years of experience in software development and artificial intelligence.
 
-I'm also on the hunt for a full-time machine learning role, so if you're hiring reach out! I can most easily be reached via:
+I'm currently pursuing a Master's degree in Artificial Intelligence at Northwestern University, which is ranked among the top ten universities in the United States. Prior to this, I worked as a Software Developer at Barclays - the bank who invented the first ATM machine...!.
 
- - lukesalamone94@gmail.com  
- - [Linkedin](https://www.linkedin.com/in/lukesalamone/)
- - [Personal Website](https://lukesalamone.com)
- - [My Blog](https://lukesalamone.github.io)
+I have been experimenting a lot in the field of Artificial Intelligence and and its applications in Robotics, Virtual Reality, Augmented Reality, Internet of Things, and Brain computer interfaces.
 
-By the way, you can also download my resume [here](https://github.com/lukesalamone/lukesalamone/raw/master/resume_luke_salamone.pdf)🤓
+I'm looking forward to working for an innovative firm where I can leverage my Artificial intelligence and machine learning expertise, as well as my prior experience as a software developer at Barclays. I want to work on challenging problems, create incredible products, and work for a company that is out to put a dent in the universe.
+Do checkout some of my projects here!
+
+I can most easily be reached via:
+
+ - vinit.7todai@gmail.com  
+ - [Linkedin](https://www.linkedin.com/in/vinit-todai)
+ - [Personal Website](https://vinit-2997.github.io/)
+
+By the way, you can also download my resume [here](https://vinit-2997.github.io/static/media/Vinit_Todai_Northwestern_Resume.d91287f4.pdf)🤓
 
 ### Technologies I'm familiar with 🔬
 
