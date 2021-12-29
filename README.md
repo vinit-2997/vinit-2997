@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Machine Learning and Deep Learning solutions
+- 🌱 I’m currently learning NLP, ML architecture (Kafka, Cassandra) deployment on AWS
+- 👯 I’m looking to collaborate on interesting ML solutions
+- 💬 Ask me about CNN / ML solutions / ML architecture / Web
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vinit-todai/)
+
+
 <!--
 **vinit-2997/vinit-2997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
