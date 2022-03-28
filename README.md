@@ -23,7 +23,7 @@ I can most easily be reached via:
  - [Linkedin](https://www.linkedin.com/in/vinit-todai)
  - [Personal Website](https://vinit-2997.github.io/)
 
-By the way, you can also download my resume [here](https://vinit-2997.github.io/static/media/Vinit_Todai_Northwestern_Resume.d91287f4.pdf)🤓
+By the way, you can also download my resume [here](https://vinit-2997.github.io/static/media/Vinit_Todai_Resume_Northwestern.b5ae0fae.pdf)🤓
 
 ### Technologies I'm familiar with 🔬
 
