@@ -8,7 +8,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vinit-todai/)
 -->
 
-I am Vinit, a creative software engineer with over 2 years of experience in developing software development.
+This is Vinit, a creative software engineer with over 2 years of experience in developing full-stack software applications.
 
 I am a Software Engineering Intern at Samsung Research America, working on some amazing stuff!
 
