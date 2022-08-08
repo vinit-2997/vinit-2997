@@ -8,11 +8,11 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vinit-todai/)
 -->
 
-I am Vinit, a creative software engineer with over 2 years of experience in software development and artificial intelligence.
+I am Vinit, a creative software engineer with over 2 years of experience in developing software development.
 
-I'm currently pursuing a Master's degree in Artificial Intelligence at Northwestern University, which is ranked among the top ten universities in the United States. Prior to this, I worked as a Software Developer at Barclays - the bank who invented the first ATM machine...!.
+I am a Software Engineering Intern at Samsung Research America, working on some amazing stuff!
 
-I have been experimenting a lot in the field of Artificial Intelligence and and its applications in Robotics, Virtual Reality, Augmented Reality, Internet of Things, and Brain computer interfaces.
+I'm a Master's student at Northwestern University, which is ranked among the top ten universities in the United States. Prior to this, I worked as a Software Developer at Barclays - the bank who invented the first ATM machine...!.
 
 I'm looking forward to working for an innovative firm where I can leverage my Artificial intelligence and machine learning expertise, as well as my prior experience as a software developer at Barclays. I want to work on challenging problems, create incredible products, and work for a company that is out to put a dent in the universe.
 Do checkout some of my projects here!
