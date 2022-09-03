@@ -8,13 +8,28 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vinit-todai/)
 -->
 
-This is Vinit, a creative software engineer with over 2 years of experience in developing full-stack software applications.
+Hello there!
+This is Vinit, a creative software engineer with over 2 years of experience in the corporate world.
 
-I am a Software Engineering Intern at Samsung Research America, working on some amazing stuff!
+I worked as a Software Engineering Intern at Samsung Research America, where I had this incredible opportunity to collaborate with research scientists, engineers, and designers to incorporate cutting-edge technology into novel prototypes for developing new software products that bring new business opportunities for Samsung. I have explored a variety of domains, including full-stack development, 3D Multiplayer Collaboration, Virtual Reality, and Metaverse, to name a few!.
 
-I'm a Master's student at Northwestern University, which is ranked among the top ten universities in the United States. Prior to this, I worked as a Software Developer at Barclays - the bank who invented the first ATM machine...!.
+I am currently pursuing a Master's degree in Computer Science (AI) at Northwestern University, which is ranked among the top ten universities in the United States. 
 
-I'm looking forward to working for an innovative firm where I can leverage my Artificial intelligence and machine learning expertise, as well as my prior experience as a software developer at Barclays. I want to work on challenging problems, create incredible products, and work for a company that is out to put a dent in the universe.
+Prior to this, I worked as a Software Developer at Barclays - the bank that invented the first ATM machine...! At Barclays, I was involved in the end-to-end development of the software applications, which had more than a million users across the world. So, I know what technical abilities it takes to develop software from scratch with such a massive user base.
+
+I also strengthened my leadership skills on the side, by leading the team for the development of in-house tools for the upliftment of Barclays colleagues, which was in line with the Barclays values of stewardship, which is leaving things better than we found them. I always try to adopt this value of leaving things in a better condition than I found them and making an impact.
+
+I am a huge music lover (guitar and piano, to be exact!). In that vein, I invented AirMusic, a real-time AI-based music composition system that generates music based on your moves! Simply dance in front of your webcam and let the party begin:)
+
+I'm looking forward to working for an innovative firm where I can leverage my expertise, as well as my vast experience as a software developer at Samsung Research and Barclays. I want to work on challenging problems, create incredible products, and put a dent in the universe!
+
+Technical Skills:
+Programming Languages: Java, Python, Javascript, TypeScript, MySQL
+Web Technologies: HTML, CSS, Angular, ReactJs, Node.js, Microservices, Spring, Hibernate, RESTful API, WebSocket, JSON
+Frameworks/Tools: Git, Eclipse, IntelliJ, Jenkins, OpenShift, SonarQube, Jira, Agile Central, Unity, WebGL, OpenXR
+Miscellaneous: Full Stack Development, Object Oriented Programming, Data Structures, Algorithms, Agile Software Development	
+
+
 Do checkout some of my projects here!
 
 I can most easily be reached via:
