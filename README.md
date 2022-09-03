@@ -24,10 +24,10 @@ I am a huge music lover (guitar and piano, to be exact!). In that vein, I invent
 I'm looking forward to working for an innovative firm where I can leverage my expertise, as well as my vast experience as a software developer at Samsung Research and Barclays. I want to work on challenging problems, create incredible products, and put a dent in the universe!
 
 Technical Skills:
-Programming Languages: Java, Python, Javascript, TypeScript, MySQL
-Web Technologies: HTML, CSS, Angular, ReactJs, Node.js, Microservices, Spring, Hibernate, RESTful API, WebSocket, JSON
-Frameworks/Tools: Git, Eclipse, IntelliJ, Jenkins, OpenShift, SonarQube, Jira, Agile Central, Unity, WebGL, OpenXR
-Miscellaneous: Full Stack Development, Object Oriented Programming, Data Structures, Algorithms, Agile Software Development	
+- Programming Languages: Java, Python, Javascript, TypeScript, MySQL
+- Web Technologies: HTML, CSS, Angular, ReactJs, Node.js, Microservices, Spring, Hibernate, RESTful API, WebSocket, JSON
+- Frameworks/Tools: Git, Eclipse, IntelliJ, Jenkins, OpenShift, SonarQube, Jira, Agile Central, Unity, WebGL, OpenXR
+- Miscellaneous: Full Stack Development, Object Oriented Programming, Data Structures, Algorithms, Agile Software Development	
 
 I can most easily be reached via:
 
