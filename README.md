@@ -49,7 +49,7 @@ By the way, you can also download my resume [here](https://vinit-2997.github.io/
 ![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-7400B8?style=for-the-badge&logoColor=white) ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-6930C3?style=for-the-badge&logoColor=white) ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-5E60CE?style=for-the-badge&logoColor=white) ![Clustering](https://img.shields.io/badge/Clustering-5390D9?style=for-the-badge&logoColor=white)  
 ![Computer Vision](https://img.shields.io/badge/Computer%20vision-4EA8DE?style=for-the-badge&logoColor=white) ![Natural Language Processing](https://img.shields.io/badge/Natural%20language%20processing-48BFE3?style=for-the-badge&logoColor=white) ![Optical Character Recognition](https://img.shields.io/badge/Optical%20Character%20Recognition-56CFE1?style=for-the-badge&logoColor=white) ![Data Mining](https://img.shields.io/badge/Data%20mining-64DFDF?style=for-the-badge&logoColor=white)
 © 2021 GitHub, Inc.
-
+-->
 <!--
 **vinit-2997/vinit-2997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
