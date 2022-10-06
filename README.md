@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on interesting ML solutions
 - 💬 Ask me about CNN / ML solutions / ML architecture / Web
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vinit-todai/)
--->
+
 
 Hello there!
 This is Vinit, a creative software engineer with over 2 years of experience in the corporate world.
