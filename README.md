@@ -67,29 +67,3 @@ Here are some ideas to get you started:
 
 
 
-
-
-
-------------’
-Working on for last few dayts
-
-Got started with BTG cashflow 
-Code understanding how API calls are made
-Made changes for money in/out on BTG and ATG
-PSP
-Code understanding
-Assisting manish on tasks
-Assisted on end-to-end API flow testing
-Working with srinisha on psp deployments and debugging on pipeline failures
-Getting started on junits 
-Working with hogan team - rajesh and raga sudha on getting test data for PSP API flow E2E
-Revised sprint boot/REST/graphql concepts
-
-I want to work on BTG PSP stories independently
-
-
-What i work this week
-
-PSP test cases
-Banker dashboard UI API integration
-Performance for ATG/BTG
